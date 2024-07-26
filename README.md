@@ -1,17 +1,9 @@
 # edtech_task
+I am using the flutter framework for this task
+you can install flutter and get project clone from the github 
+and you can run the application 
+In application all the screens are scrollable vertically you can can scroll or card are scroll horizontally 
+In Figma there are only campus and channel page and designs page which i develop the screens 
+If you have any app issue please contact me
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Edtech_task
+github repo :  https://github.com/mariyam-pangarkar/Edtech_task
